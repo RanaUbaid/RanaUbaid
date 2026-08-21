@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Rana Ubaid
 
-<!--
-**RanaUbaid/RanaUbaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer & Software Engineer
 
-Here are some ideas to get you started:
+- 🌱 I specialize in **[html, css, java, php, Python / Web Development]**
+- 💻 I’m passionate about building cool projects and learning new technologies.
+- ⚡ Fun fact: I just started my GitHub journey today!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Core Skills
+- 🌐 HTML, CSS (Basic)
+- 🐍 Python (Learning)
+
+---
+### 📈 My GitHub Stats:
