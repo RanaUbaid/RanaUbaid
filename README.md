@@ -27,6 +27,12 @@ A responsive business website built with HTML, CSS, and JavaScript.
 
 🔗 [Live Demo](https://ranaubaid.github.io/ncbae/)
 
+#### 📊 Sales & Expense Management Dashboard
+
+An Excel-based dashboard for sales tracking, expense management, financial summaries, and charts.
+
+🔗 [GitHub Repository](https://github.com/RanaUbaid/Sales-Expense-Dashboard)
+
 ### 💼 What I Can Help With
 
 * Business & Portfolio Websites
